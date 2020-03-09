@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="phpshop@localhost" uuid="721ae5e8-a7b5-4b77-83e5-0b78877e95ce">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/phpshop?useSSL=false&amp;serverTimezone=UTC</jdbc-url>
+      <driver-properties>
+        <property name="createDatabaseIfNotExist" value="TRUE" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="booklibrary@localhost" uuid="849f0d84-c6f9-40e5-ab48-8bf604b96bf9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/booklibrary?useSSL=false&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>
